@@ -1,9 +1,9 @@
 import React, { useState, useCallback } from 'react';
 import './App.css';
-import FileUpload from './components/FileUpload';
-import Controls from './components/Controls';
-import DownloadReport from './components/DownloadReport'; // Import the new component
-import { uploadAndProcessFiles } from './services/api'; 
+import FileUpload from './components/FileUpload.tsx';
+import Controls from './components/Controls.tsx';
+import DownloadReport from './components/DownloadReport.tsx'; // Import the new component
+import { uploadAndProcessFiles } from './services/api.ts'; 
 
 // Define a type for API errors for better state management
 interface ApiError {

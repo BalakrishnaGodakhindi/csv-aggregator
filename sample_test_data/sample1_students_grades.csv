@@ -1,0 +1,10 @@
+StudentID,Subject,Grade,Term
+S1001,Math,85,Fall2023
+S1002,Math,92,Fall2023
+S1001,Science,78,Fall2023
+S1003,Math,88,Fall2023
+S1002,Science,95,Fall2023
+S1001,English,82,Fall2023
+S1004,Math,90,Spring2024
+S1001,Math,88,Spring2024
+S1004,Science,92,Spring2024
